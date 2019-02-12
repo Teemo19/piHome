@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>https://files.monday.com/photos/6701094/thumb_small/6701094-data?1549928762</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>https://files.monday.com/photos/6701103/thumb_small/6701103-Julio_Sanchez_photo_2019_01_29_17_10_00.png?1548781800</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>https://files.monday.com/photos/6702413/thumb_small/6702413-Marcelino_Tovar_photo_2019_01_29_18_04_53.png?1548785093</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>https://files.monday.com/photos/6702738/thumb_small/6702738-Emiliano_Mart_nez_photo_2019_02_05_03_20_12.png?1549336812</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>https://files.monday.com/photos/6847777/thumb_small/6847777-Aldo_Perez_photo_2019_02_12_00_05_56.png?1549929956</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>https://files.monday.com/photos/6853828/thumb_small/6853828-data?1549554332</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>https://files.monday.com/photos/6879223/thumb_small/6879223-Juan_Antonio_Castro_Garc_a_photo_2019_02_07_23_13_20.png?1549581200</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>amaldonado</name>
+            <description>nombre:amaldonado</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>-99.165188,19.4274751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>Julio Sanchez</name>
+            <description>nombre:Julio Sanchez</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>-89.59258569999997,20.9673702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Marcelino Tovar</name>
+            <description>nombre:Marcelino Tovar</description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>-106.41114249999998,23.2494148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>Emiliano Martínez</name>
+            <description>nombre:Emiliano Martínez</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>-99.2419251,19.4027737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Aldo Perez</name>
+            <description>nombre:Aldo Perez</description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>-102.28126099999997,21.8252077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>Aldo Cueto</name>
+            <description>nombre:Aldo Cueto</description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>-87.07388509999998,20.6295586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Juan Antonio Castro García</name>
+            <description>nombre:Juan Antonio Castro García</description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>-102.28126099999997,21.8252077,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
